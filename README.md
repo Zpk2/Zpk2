@@ -14,10 +14,6 @@
 
 <br>
 
-<a href="https://github.com/Zpk2/Easy-DS-Webhook">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Zpk2&repo=Easy-DS-Webhook&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
 <a href="https://github.com/Zpk2/Proxy-leecher">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Zpk2&repo=Proxy-leecher&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
