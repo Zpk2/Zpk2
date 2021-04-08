@@ -41,6 +41,7 @@
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
 
 <details>
 <summary></summary>
