@@ -1,6 +1,5 @@
 [![Visits Badge](https://badges.pufler.dev/visits/Zpk2/Zpk2)](https://niaso.cf)
 [![Years Badge](https://badges.pufler.dev/years/Zpk2)](https://niaso.cf)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/TheRealNiaso)
 
 <br>
 
