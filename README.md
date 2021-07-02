@@ -1,5 +1,5 @@
-[![Visits Badge](https://badges.pufler.dev/visits/Zpk2/Zpk2)](https://niaso.cf)
-[![Years Badge](https://badges.pufler.dev/years/Zpk2)](https://niaso.cf)
+[![Visits Badge](https://badges.pufler.dev/visits/Zpk2/Zpk2)](https://github.com/Zpk2)
+[![Years Badge](https://badges.pufler.dev/years/Zpk2)](https://github.com/Zpk2)
 
 <br>
 
