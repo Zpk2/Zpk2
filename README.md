@@ -3,8 +3,6 @@
 
 <br>
 
-[Join VersiraSec team](https://github.com/VersiraSec)
-
 ## 📌
 
 <a href="https://github.com/Zpk2/Tiny-urls">
